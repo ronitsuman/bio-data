@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bio-Data(coderRonit)</title>
+    <style>
+        .main{
+            width: 70%;
+         height: 100%;
+         display: flex;
+         justify-content: space-around;
+         box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+         margin: auto;
+
+        }
+        .first{
+        
+            width: 37%;
+         height: 100%;
+
+
+        }
+        .second{
+            width: 58%;
+          height: 100%;
+
+        }
+        img{
+            width: 200px;
+      height: 200px;
+      border-radius: 50%;
+      margin-top: 20px;
+      margin-left: 60px;
+      margin-bottom: 30px;
+      border: 7px solid white;
+    }
+
+        }
+        .icon{
+            width: 30px;
+            height: 30px;
+        }
+    </style>
+    <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+</head>
+<body>
+    <div class="main">
+        <div class="first">
+            <div>
+                <img src=
+               
+            
+                </div>
+                <div class="contact">
+                    <h2>Contact</h3>
+                        <div class="phone">
+                             <img class="icon" src="call.png" height="" alt="7857024059">
+                             7857024059
+                           </div>
+                           <div class="phone">
+                            <img class="icon" width="80" height="80" src="https://img.icons8.com/dotty/80/mail.png" alt="mail"/>ronitsuman1@gmail.com 
+
+                           </div>
+
+                        </div>
+                        
+                        
+                </div>
+                
+                 </div>
+                </div>
+
+
+             
+        </div>
+        <div class="second"></div>
+        <h1>Ronit Suman</h1>
+    </div>
+    
+</body>
+</html>
